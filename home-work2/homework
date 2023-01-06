@@ -1,0 +1,11 @@
+Hw1:write a program to read a symbol then print the value 10 if
+the symbol is (a or A) or print the value 20 if the symbol is (b or
+B) , otherwise print the value 100.
+
+Hw2:write a program to read 5 integer degrees of one
+student ,print the average with the grade (excellent ,very
+good ,good ,medium ,pass , fail).
+
+Hw3: write a program to read 5 degrees and print the grad
+of the student by using switch case. (excellent ,very good
+,good ,medium ,pass , fail).
